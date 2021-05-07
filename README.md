@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Datta23
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on projects related to java script
+- 👀 I’m interested in learning c++
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on projects related to c++
 - 📫 How to reach me dattaanendra14321@gmail.com
 
 <!---
